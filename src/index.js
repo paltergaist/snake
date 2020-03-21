@@ -1,4 +1,6 @@
 'use strict'
-import './css/signin.css'
+import './styles/index.css'
 
-console.log()
+//dynamic import
+document.querySelector('.js-index') && import('./js/index/index').then(resolve => resolve.initIndexPage())
+

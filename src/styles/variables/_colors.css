@@ -1,0 +1,13 @@
+:root {
+    --black: #222;
+    --gray: #898f97;
+    --blue: #7092fe;
+    --white: #fff;
+
+
+
+    --green-500: #92aa00;
+    --green-500-hover: rgba(146, 170, 0, 0.8);
+    --green-700: #7f9900;
+    --green-700-hover: rgba(127, 153, 0, 0.8);
+}
