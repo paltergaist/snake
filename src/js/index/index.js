@@ -4,5 +4,5 @@ import animation from './animation'
 
 
 export const initIndexPage = () =>{
-    animation();
+    animation.init();
 }
